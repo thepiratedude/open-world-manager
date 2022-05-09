@@ -1,0 +1,25 @@
+{
+  "name": "owm",
+  "version": "0.0.1",
+  "description": "An very early app that provides a kit of tools to manage an RPG's Campaign.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepiratedude/open-world-manager.git"
+  },
+  "keywords": [
+    "worldgen",
+    "worldmanager",
+    "rpg",
+    "compaign"
+  ],
+  "author": "The Pirate Dude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepiratedude/open-world-manager/issues"
+  },
+  "homepage": "https://github.com/thepiratedude/open-world-manager#readme"
+}
