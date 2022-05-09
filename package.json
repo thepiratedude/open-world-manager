@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/thepiratedude/open-world-manager/issues"
   },
-  "homepage": "https://github.com/thepiratedude/open-world-manager#readme"
+  "homepage": "https://github.com/thepiratedude/open-world-manager#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "validator": "^13.7.0"
+  }
 }
